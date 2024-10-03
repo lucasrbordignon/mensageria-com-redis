@@ -18,7 +18,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 Primeiro, clone o repositório para a sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/lucasrbordignon/mensageria-com-redis.git
 cd seu-repositorio
 ```
 
